@@ -1,0 +1,19 @@
+---
+title: "First page"
+format: html
+---
+
+```{r}
+
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+
+```{r}
+plot(women)
+```
+
+
